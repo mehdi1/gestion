@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CAP-Gestion | <%= @titre %></title>
+  <%= stylesheet_link_tag    "application-x-editable", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application-x-editable", "data-turbolinks-track" => true %>
+    <%= favicon_link_tag 'global-communications-icon.jpg' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+</html>

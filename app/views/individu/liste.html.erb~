@@ -1,0 +1,375 @@
+
+  	
+				<!-- main content -->
+				<div id="page-content">
+					<!-- page header -->
+					<h1 id="page-header">Liste des individu</h1>	
+					
+					
+						<div class="row-fluid">
+									
+							
+								<section id="unseen">
+									
+									<table class="table table-striped table-bordered responsive" id="dtable">
+												
+													<thead>
+														<tr>
+															<th>code</th>
+															<th>Nom</th>
+															<th>Prenom</th>
+															<th>Emploie</th>
+															<th>date entree</th>
+															<th>Date anciente</th>
+															<th></th>
+															<th></th>
+															
+														</tr>
+													</thead>
+													<tbody>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td> 4.0</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>10</td>
+															<td>Win 95+</td>
+															<td class="center"> 4</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td class="center">X</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															</tr>
+														<tr class="odd gradeX">
+															
+															<td>100</td>
+															<td>Windows Mobile 6</td>
+															<td class="center">-</td>
+															<td class="center">C</td>
+															<td class="center">X</td>
+															
+															<td>Windows Mo 6</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+														</tr>
+														<tr class="odd gradeX">
+															
+															<td>No00</td>
+															<td>N800</td>
+															<td class="center">-</td>
+															<td class="center">A</td>
+															<td>Presto</td>
+															<td>Prestoooo</td>
+															<td><button type="button" class="btn btn-danger btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Editer</button></td>
+															<td><button type="button" class="btn btn-info btn-small" style="float:right;margin-right:10px" href="javascript:void(0);">Afficher</button></td>
+															
+														</tr>
+														
+													</tbody>
+													
+												</table>
+												
+												
+										        	
+										    </section>
+										
+									</div>
+									
+							</div>
+						
+				
+	
+
+   

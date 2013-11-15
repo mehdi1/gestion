@@ -1,0 +1,282 @@
+
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<div class="page-header">
+				<h1>
+					Fiche individu &eacute;ditable <br /><small>Bootstrap / x-editable / grid-responsive / tab-responsive</small>
+				</h1>
+			</div>
+		</div>
+	</div>
+	
+	<div class="row-fluid">
+		<div class="span12">
+			<div style="float: right; margin-bottom: 10px"><button id="enable" class="btn btn-default">Modifi&eacute; la fiche salari&eacute;</button></div>
+			<a href="liste-salaries.html" class="btn btn-success" style="float:right;margin-right:15px;" type="button">Liste des salari&eacute;s</a>
+		</div>
+	</div>
+	
+	<div class="row-fluid">
+		
+	     <div class="span12">
+		<div class="responsive-tabs">
+
+			<h2>DONN&Eacute;ES PERSONELLES</h2>
+			<div>
+				<div class="row span12">
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Matricule</label><a href="#" id="matricule" data-type="text" data-pk="1"data-placement="right" data-original-title="Enter username">MD001</a> 
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Nom</label><a href="#" id="nom" data-type="text" data-pk="1"data-placement="right" data-original-title="Enter username">MD001</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Nom jeune fille</label><a href="#" id="nomjeunefille" data-type="text" data-pk="1"data-placement="right" data-original-title="Enter username">MD001</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Prenom</label><a href="#" id="prenom" data-type="text" data-pk="1"data-placement="right" data-original-title="Enter username">MD001</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>titre</label><a href="#" id="titre" data-type="select" data-pk="1" data-value="" data-original-title="Select titre"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Sexe</label><a href="#" id="sex" data-type="select" data-pk="1" data-value="" data-original-title="Select sex"></a>
+							</div>
+							
+						
+							
+					</div>
+			</div>
+
+			<h2>&Eacute;TAT CIVIL</h2>
+			
+				<div>
+					<div class="row span12">
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>N&deg; SEC SOC</label><a href="#" id="n-sec-soc" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer numero securit&eacute; sociale">1245786414</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Date de naissance</label><a href="#" id="date-naissance" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="Choisir date naissance">25.02.2013</a> 
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Lieu de naissance</label><a href="#" id="lieu-de-naissance" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer lieu de naissance"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Pays de nationalit&eacute;</label><a href="#" id="pays-nationalite" data-type="select2" data-pk="1" data-value="FR" data-original-title="Select pays">
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Situation familliale</label><a href="#" id="situation" data-type="select" data-pk="1" data-value="" data-original-title="Select situation"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Nombre enfant</label><a href="#" id="nombre-enfant" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer nombre enfant"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Adresse</label><a href="#" id="addresse" data-type="address" data-pk="1" data-original-title="entrer votre adresse"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Code Postal</label><a href="#" id="Code-Postal" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Code Postal"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Pays</label><a href="#" id="pays" data-type="select2" data-pk="1" data-value="FR" data-original-title="Select pays">
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Email</label><a href="#" id="email" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer email"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>T&eacute;l&eacute;phone</label><a href="#" id="telephone" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer numero telephone"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label class="control-label" for="fileInput" style="float: left;">T&eacute;l&eacute;charger une image</label>
+									<div id="uniform-fileInput" class="uploader" style="float:left"><input id="fileInput" class="file" type="file"></input></div>
+							</div>
+							<div class="row-fluid">
+								<div class="span12">
+									<div class="col-xs-12 col-sm-12 col-lg-12" id="user">
+										<label><a href="#" id="pencil"><i class="icon-pencil" style="padding-right: 5px"></i>Commentaire</a></label>
+										<div id="note" data-pk="1" data-type="wysihtml5" data-toggle="manual" data-original-title="Enter notes"></div> 
+									</div>
+								</div>
+							</div>
+					</div>
+				</div>
+			<h2>AFFECTATION</h2>
+				<div>
+					<div class="row span12">
+						
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Numero d'&eacute;tablissement</label><a href="#" id="numero-etablissement" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Numero d'&eacute;tablissement"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Lieu de travail different</label><a href="#" id="lieu-travail-different" data-type="select" data-pk="1" data-value="" data-original-title="Select lieu"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Emploie</label><a href="#" id="emploi" data-type="select" data-pk="1" data-value="" data-original-title="Select emploi"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Categorie</label><a href="#" id="categorie" data-type="select" data-pk="1" data-value="" data-original-title="Select categorie"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Qualification</label><a href="#" id="qualification" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer qualification"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Echelon</label><a href="#" id="echelon" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Echelon"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Coefficient</label><a href="#" id="coefficient" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Coefficient"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Date debut</label><a href="#" id="date-debut" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="Choisir date debut">25.02.2013</a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Date fin</label><a href="#" id="date-fin" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="Choisir date fin">25.02.2013</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Date d'entree et heure embauche</label><a href="#" id="date-entrer-et-heure-embauche" data-type="combodate" data-template="D MMM YYYY  HH:mm" data-format="YYYY-MM-DD HH:mm" data-viewformat="MMM D, YYYY, HH:mm" data-pk="1"  data-original-title="modifier la date et l'heure">14,04,02,12:45</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Date de sortie</label><a href="#" id="date-sortie" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="Choisir date sortie">25.02.2013</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Motif</label><a href="#" id="motif" data-type="select" data-pk="1" data-value="" data-original-title="Select motif"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Anciennete</label><a href="#" id="date-Anciennete" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="date anciennete ">25.02.2013</a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Groupe</label><a href="#" id="groupe" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Groupe"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Secteur</label><a href="#" id="secteur" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer secteu"></a>
+							</div>
+							
+					</div>
+				</div>
+			
+			<h2>SALAIRE</h2>
+				<div>
+					<div class="row span12">
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Type de pays</label><a href="#" id="type-paye" data-type="select" data-pk="1" data-value="" data-original-title="Select Type de pays"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Salaire de base</label><a href="#" id="salaire-base" data-type="text" data-pk="1"data-placement="right" data-original-title="Entrer Salaire de base"></a> 
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Employeur(s)</label><a href="#" id="employeur" data-type="select" data-pk="1" data-value="" data-original-title="Select employeur"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Montant percu</label><a href="#" id="montant-percu" data-type="text" data-pk="1"data-placement="right" data-original-title="Montant percu"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Emploi(s)</label><a href="#" id="emplois" data-type="select" data-pk="1" data-value="" data-original-title="Select emplois"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Nature contrat</label><a href="#" id="nature-contrat" data-type="select" data-pk="1" data-value="" data-original-title="Select Nature contrat"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Duree du travail contractuelle</label><a href="#" id="duree-travail-contractuelle" data-type="text" data-pk="1"data-placement="right" data-original-title="Duree du travail contractuelle "></a> 
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Intitulabbe contrat</label><a href="#" id="intitulabbe-contrat" data-type="select" data-pk="1" data-value="" data-original-title="Intitulabbe contrat"></a>
+							</div>
+					</div>
+				</div>
+			
+			<h2>BULLETIN</h2>
+					<div>
+						<div class="row span12">
+						
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Convetion collective</label><a href="#" id="convetion-collective" data-type="text" data-pk="1"data-placement="right" data-original-title="Convetion collective "></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Code convetion collective</label><a href="#" id="code-convetion-collective" data-type="text" data-pk="1" data-original-title="Convetion collective "></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Avantages nourriture</label><a href="#" id="avantages-nourriture" data-type="select" data-pk="1" data-value="" data-original-title="Select avantages-nourriture"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Avantages logement</label><a href="#" id="avantages-logement" data-type="select" data-pk="1" data-value="" data-original-title="Select avantages-logement"></a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Avantages vehicule</label><a href="#" id="avantages-vehicule" data-type="select" data-pk="1" data-value="" data-original-title="Select avantages-vehicule"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Avantages autre</label><a href="#" id="avantages-autre" data-type="select" data-pk="1" data-value="" data-original-title="Select avantages-nourriture"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Frais forfait</label><a href="#" id="frais-forfait" data-type="select" data-pk="1" data-value="" data-original-title="Select Frais forfait"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Frais remboursement</label><a href="#" id="frais-remboursement" data-type="text" data-pk="1"data-placement="right" data-original-title="Frais remboursement "></a> 
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Frais avantage salarie</label><a href="#" id="frais-avantage-salarie" data-type="text" data-pk="1"data-placement="right" data-original-title="Frais avantage salarie "></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Pourboire</label><a href="#" id="pourboire" data-type="select" data-pk="1" data-value="" data-original-title="Select Pourboire"></a>
+							</div>
+							
+							<div class="col-xs-12 col-sm-6 col-lg-4" id="user">
+								<label>Absence montant</label><a href="#" id="absence-montant" data-type="select" data-pk="1" data-value="" data-original-title="Select absence montant"></a>
+							</div>
+							
+						</div>
+					</div>		
+		</div>
+	      </div>
+	      
+		
+		
+	</div>
+</div>
+<script src="js/js-xeditable-bootstrap/demo-mock.js"></script> 
+        <script src="js/js-xeditable-bootstrap/demo.js"></script>        
+
+		<script>
+		$(document).ready(function() {
+			RESPONSIVEUI.responsiveTabs();
+		})
+		</script>	
+
+

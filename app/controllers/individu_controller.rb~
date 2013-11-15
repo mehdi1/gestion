@@ -1,0 +1,17 @@
+class IndividuController < ApplicationController
+
+layout "application"
+ 
+  def creation
+	@titre = "Créer dossier individu"
+  end
+
+  def edition
+	@titre = "édition un dossier client"
+	render :layout => "x-editable"
+  end
+
+  def liste
+	render :layout => "tab-liste" 
+  end
+end
